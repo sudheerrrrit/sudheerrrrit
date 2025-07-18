@@ -1,14 +1,28 @@
-💫 Hi 👋, I'm Sudheer Yadav
-A passionate Software Engineer || Compatative programmer || Java developer
+<h1 align="center">💫 Hi 👋, I'm <span style="color:#F39C12;">Sudheer Yadav</span></h1>
 
-Email Me 👉 ✉️ yadavsudheer20072005@gmail.com
+<p align="center">
+  <strong>A passionate 💻 Software Engineer || ⚔️ Competitive Programmer || ☕ Java Developer</strong>
+</p>
 
-🔭 I’m currently working on: uber app clone 
-🌱 I’m currently learning: Dsa , java full stack
-👯 I’m looking to collaborate on: uber app clone
-🤔 I’m looking for help with: 
-💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: yadavsudheer20072005@gmail.com
+<p align="center">
+  📧 <strong>Email Me 👉</strong> <a href="mailto:yadavsudheer20072005@gmail.com">✉️ yadavsudheer20072005@gmail.com</a>
+</p>
+
+<hr/>
+
+<ul>
+  <li>🔭 <strong>I’m currently working on:</strong> <span style="color:#3498DB;">Uber App Clone</span></li>
+  <li>🌱 <strong>I’m currently learning:</strong> DSA, Java Full Stack</li>
+  <li>👯 <strong>I’m looking to collaborate on:</strong> Uber App Clone 🚗</li>
+  <li>🤝 <strong>I’m looking for help with:</strong> <em>Open to mentorship or contribution ideas 🤗</em></li>
+  <li>💬 <strong>Ask me about:</strong> Collaboration, Tech Support, Java Projects 💬</li>
+  <li>📫 <strong>How to reach me:</strong> <a href="mailto:yadavsudheer20072005@gmail.com">yadavsudheer20072005@gmail.com</a></li>
+</ul>
+
+<p align="center">
+  🚀 Let's build something amazing together!
+</p>
+
 😄 Pronouns: Sudheer Yadav
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
