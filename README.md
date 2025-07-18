@@ -25,6 +25,33 @@
 
 😄 Pronouns: Sudheer Yadav
 ⚡ Fun fact: I Love Tech and Tech Love Me
+<h2>🌐 Connect with Me:</h2>
+
+<p>
+  <a href="https://discord.gg/GqeEdh3x" target="_blank">
+    🕹️ <button style="padding:8px 12px; margin:4px; border:none; border-radius:8px; background-color:#7289DA; color:white;">Discord</button>
+  </a>
+
+  <a href="https://instagram.com/yaduvanshi_sudheer_7979" target="_blank">
+    📸 <button style="padding:8px 12px; margin:4px; border:none; border-radius:8px; background-color:#E4405F; color:white;">Instagram</button>
+  </a>
+
+  <a href="https://linkedin.com/in/SudheerYadav" target="_blank">
+    💼 <button style="padding:8px 12px; margin:4px; border:none; border-radius:8px; background-color:#0077B5; color:white;">LinkedIn</button>
+  </a>
+
+  <a href="https://stackoverflow.com/users/your_user_id" target="_blank">
+    🧠 <button style="padding:8px 12px; margin:4px; border:none; border-radius:8px; background-color:#FE7A16; color:white;">Stack Overflow</button>
+  </a>
+
+  <a href="https://x.com/SudheerYadav" target="_blank">
+    🐦 <button style="padding:8px 12px; margin:4px; border:none; border-radius:8px; background-color:black; color:white;">X (Twitter)</button>
+  </a>
+
+  <a href="mailto:yadavsudheer20072005@gmail.com">
+    📧 <button style="padding:8px 12px; margin:4px; border:none; border-radius:8px; background-color:#D14836; color:white;">Email Me</button>
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://Discord.gg/GqeEdh3x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yaduvanshi_sudheer_7979) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SudheerYadav) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Sudheer Yadav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SudheerYadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavsudheer20072005@gmail.com) 
