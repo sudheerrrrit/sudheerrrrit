@@ -1,4 +1,6 @@
-<h1 align="center">💫 Hi 👋, I'm <span style="color:#F39C12;">Sudheer Yadav</span></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Sudheer+Yadav!;" />
+</h1>
 
 <p align="center">
   <strong>A passionate 💻 Software Engineer || ⚔️ Competitive Programmer || ☕ Java Developer</strong>
