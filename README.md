@@ -10,6 +10,9 @@
   📧 <strong>Email Me 👉</strong> <a href="mailto:yadavsudheer20072005@gmail.com">✉️ yadavsudheer20072005@gmail.com</a>
 </p>
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=SoftWare+Development+Engineer+1;Competitive+Programmer;Passionate+About+Coding" alt="Typing SVG" />
+
+
 <hr/>
 
 <ul>
